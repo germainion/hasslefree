@@ -6,5 +6,5 @@
 
 ## Installation
 ```shell
-go get -u github.com/yanishoss/hasslefree
+go install github.com/yanishoss/hasslefree
 ```
